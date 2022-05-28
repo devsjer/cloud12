@@ -1,7 +1,7 @@
 #!/bin/sh
-## new line
+##new line
 read a
-if [ $a -le 10 ]
+if [ $a -lt 10 ]
 then
 	echo "Right Number"
 else
